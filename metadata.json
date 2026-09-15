@@ -1,0 +1,6 @@
+{
+  "name": "GestureX",
+  "description": "Offline-first two-way Indian Sign Language (ISL) communication platform bridging deaf and hearing communities with live on-device camera ISL recognition, English and Telugu translation, speech-to-text, and realistic 3D animated human signer.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
